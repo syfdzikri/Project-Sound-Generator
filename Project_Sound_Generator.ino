@@ -4,6 +4,7 @@
   >>>>>>>>>>>>>>>>>>>>>>>>>>>>
  Syifa Dzikri Tsani - 4211501022
  Wildan Firdaus - 4211501021
+ Not nada lagu musik dengan Arduino
  */
 
 int buzzer=8; // membuat variabel Buzzer untuk pin 8 digital
