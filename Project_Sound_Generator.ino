@@ -7,8 +7,8 @@
  Not nada lagu musik dengan Arduino
  */
 
-int buzzer=8; // membuat variabel Buzzer untuk pin 8 digital
-void setup(){ // void setup sengaja dikosongkan
+int buzzer=8;
+void setup(){ 
   }
     void DO(){tone(buzzer, 262); } // fungsi variabel untuk nada DO
     void RE(){tone(buzzer, 294); }  // fungsi variabel untuk nada RE
